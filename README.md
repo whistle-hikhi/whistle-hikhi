@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there, I'm Hung 👋
 
-<!--
-**whistle-hikhi/whistle-hikhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a student of Ha Noi Unviersity of Science and Technology
+- 🌱 I’m currently learning AI, Automation Engineering
+- 👯 I’m looking to collaborate on FPT, Viettel, Vingroup
+- 🤔 I’m looking for help with AI
+- 💬 Ask me about study 
+- 📫 How to reach me: nguyenhuyhung192002@gmail.com [LinkedIn-@Huyt](https://www.linkedin.com/in/h%C3%B9ng-nguy%E1%BB%85n-huy-8888521b9/)
+- ⚡ Fun fact: Just try my best on everything I involve in
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=HuytNguyen2002&&show_icons=true&title%20color=ffffff&icon%20color=bb2acf@text%20color=daf7dc&bg%20color=151515">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Thanks for visting my Github !!!!
