@@ -7,9 +7,5 @@ I'm an AI Engineer
 - ⚡ Fun fact: Just try my best on everything I involve in
 - Thanks for visting my Github !!!!
 
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/huyt02/))
-
 ## 🛠 Skills
 Python, C++, Tensorflow, Pytorch, Keras, OpenCV, HuggingFaces,...
