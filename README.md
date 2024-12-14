@@ -8,4 +8,22 @@ I'm an AI Engineer
 - Thanks for visting my Github !!!!
 
 ## 🛠 Skills
-Python, C++, Tensorflow, Pytorch, Keras, OpenCV, HuggingFaces, Langchain, Langgraph...
+
+**Techical:**  Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
+
+**Programing Languages:** Python, C, C++, JavaScript
+
+**Database:** PostgreSQL, FAISS, Qdrant
+
+**Cloud:** Microsoft Azure, AWS
+
+**Container Orchestrator:** Docker
+
+**Frameworks:** PyTorch, TensorFlow, OpenCVs, Langchain, Langgraph, OpenAI, HuggingFace, Sklearn, Llama, Bot Framework SDK, FastAPI, MS Graph API
+
+**Languages:**
+
+- English: Professional working proficiency 
+- Vietnamese: Native proficiency
+- Korean: Elementary proficiency
+- Japanese: Elementary proficiency
