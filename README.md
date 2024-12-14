@@ -15,7 +15,7 @@ I'm an AI Engineer
 
 ⚡**Database:** PostgreSQL, FAISS, Qdrant
 
-⚡**Cloud:** Microsoft Azure, AWS
+:cloud: **Cloud:** Microsoft Azure, AWS
 
 ⚡**Container Orchestrator:** Docker
 
