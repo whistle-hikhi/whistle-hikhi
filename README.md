@@ -9,19 +9,19 @@ I'm an AI Engineer
 
 ## 🛠 Skills
 
-**Techical:**  Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
+⚡**Technical:**  Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
 
-**Programing Languages:** Python, C, C++, JavaScript
+⚡**Programing Languages:** Python, C, C++, JavaScript
 
-**Database:** PostgreSQL, FAISS, Qdrant
+⚡**Database:** PostgreSQL, FAISS, Qdrant
 
-**Cloud:** Microsoft Azure, AWS
+⚡**Cloud:** Microsoft Azure, AWS
 
-**Container Orchestrator:** Docker
+⚡**Container Orchestrator:** Docker
 
-**Frameworks:** PyTorch, TensorFlow, OpenCVs, Langchain, Langgraph, OpenAI, HuggingFace, Sklearn, Llama, Bot Framework SDK, FastAPI, MS Graph API
+⚡**Frameworks:** PyTorch, TensorFlow, OpenCVs, Langchain, Langgraph, OpenAI, HuggingFace, Sklearn, Llama, Bot Framework SDK, FastAPI, MS Graph API
 
-**Languages:**
+⚡**Languages:**
 
 - English: Professional working proficiency 
 - Vietnamese: Native proficiency
