@@ -13,7 +13,7 @@ I'm currently an AI Engineer at R&D Department of TECHVIFY SOFTWARE
 
 :newspaper: **Programing Languages:** Python, C, C++, JavaScript
 
-:sandwich: **Database:** PostgreSQL, FAISS, Qdrant
+:sandwich: **Database:** PostgreSQL, FAISS, Qdrant, GraphQL
 
 :cloud: **Cloud:** Microsoft Azure, AWS
 
