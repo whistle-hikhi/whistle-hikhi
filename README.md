@@ -26,5 +26,3 @@ I'm currently a NLP Researcher at VinUniversity
 
 - English: Professional working proficiency 
 - Vietnamese: Native proficiency
-- Korean: Elementary proficiency
-- Japanese: Elementary proficiency
