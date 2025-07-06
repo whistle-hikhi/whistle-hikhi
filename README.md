@@ -12,7 +12,7 @@ I'm currently a NLP Researcher at VinUniversity
 
 ⚡ **Technical:**  Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
 
-:newspaper: **Programing Languages:** Python, C, C++, JavaScript
+:newspaper: **Programing Languages:** Python, C, C++, JavaScript, Typescript
 
 :sandwich: **Database:** PostgreSQL, FAISS, Qdrant, GraphQL
 
@@ -20,7 +20,7 @@ I'm currently a NLP Researcher at VinUniversity
 
 :truck: **Container Orchestrator:** Docker
 
-:newspaper: **Frameworks:** PyTorch, TensorFlow, OpenCVs, Langchain, Langgraph, OpenAI, HuggingFace, Sklearn, Llama, Bot Framework SDK, FastAPI, MS Graph API
+:newspaper: **Frameworks:** PyTorch, TensorFlow, OpenCVs, Langchain, Langgraph, OpenAI, HuggingFace, Sklearn, Llama, FastAPI
 
 :speaking_head: **Languages:**
 
