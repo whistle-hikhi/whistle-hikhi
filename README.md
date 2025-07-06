@@ -1,6 +1,6 @@
 # Hello there, I'm Hung (Hiirooo)👋
 ## 🚀 About Me
-I'm currently a NLP Researcher at VinUniversity
+I'm currently a NLP Researcher at VinNLP of VinUniversity
 - :pen: I was an AI Engineer at R&D Department of TECHVIFY Software (10 months)
 - :iphone: I was an AI Engneer at R&D Department of SAMSUNG (7 months)
 - :pencil2: I was a Research Assistant of Computer Vision at ISPAL (2 years)
