@@ -1,4 +1,4 @@
-# Hello there, I'm Hung (Hiro)👋
+# Hello there, I'm Hung (Hiirooo)👋
 ## 🚀 About Me
 I'm currently a NLP Researcher at VinUniversity
 - :pen: I was an AI Engineer at R&D Department of TECHVIFY Software (10 months)
