@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=200&section=header&text=Hung%20(Hiirooo)%20👋&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
 </p>
 
-<table border="0" width="100%">
+<table border="10px" width="100%">
   <tr>
     <!-- Left: Bio -->
     <td width="60%" valign="top">
