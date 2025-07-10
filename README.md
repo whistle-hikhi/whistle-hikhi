@@ -16,27 +16,56 @@ Previously, I’ve worked on various challenging projects in AI and Computer Vis
 - ✉️ Email: nguyenhuyhung192002@gmail.com  
 - 💼 [LinkedIn – @Huyt](https://www.linkedin.com/in/h%C3%B9ng-nguy%E1%BB%85n-huy-8888521b9/)
 
+> ⚡ *Fun fact: I always give my best in everything I do.*
+
+---
+
 ## 🛠 Skills
 
 ### ⚙️ Technical Domains
-- Machine Learning, Deep Learning  
-- Natural Language Processing (NLP), Computer Vision
+> Machine Learning • Deep Learning • NLP • Computer Vision
+
+---
 
 ### 💻 Programming Languages
-- Python 🐍, C, C++, JavaScript, TypeScript
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+---
 
 ### 🗄️ Databases & Vector Stores
-- PostgreSQL, FAISS, Qdrant, GraphQL
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-005571?style=flat&logo=data&logoColor=white)
+![Qdrant](https://img.shields.io/badge/-Qdrant-ff6600?style=flat&logo=qdrant&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+---
 
 ### ☁️ Cloud & DevOps
-- Microsoft Azure, AWS  
-- Docker 🐳
+
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
 
 ### 🧰 Frameworks & Libraries
-- PyTorch, TensorFlow, scikit-learn  
-- HuggingFace 🤗, OpenAI, FastAPI  
-- Langchain, LangGraph  
-- OpenCV, LLaMA
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FCC72B?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-ffcd00?style=flat&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LLaMA](https://img.shields.io/badge/-LLaMA-A8B9CC?style=flat&logo=data&logoColor=black)
 
 ---
 
@@ -51,6 +80,7 @@ Previously, I’ve worked on various challenging projects in AI and Computer Vis
 
 Thanks for stopping by! ⭐  
 Feel free to connect or collaborate — I'm always open to exciting new challenges!
+
 
 
 
