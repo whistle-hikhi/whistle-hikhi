@@ -48,7 +48,7 @@ with hands-on experience in building AI/NLP products and ML pipelines.
 </p>
 
 <p align="center">
-  <img src="gif/wp9657802-2026091765.gif" alt="animated header" width="100%" />
+  <img src="gif/wp9657802-2026091765.gif" alt="animated header" width="100%" height="50%" />
   <h1 style="position:absolute;top:50px;color:white;">Hung Nguyen Huy (Hiirooo) 👋</h1>
 </p>
 
