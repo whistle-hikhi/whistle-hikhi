@@ -1,6 +1,6 @@
 <!-- Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=200&section=header&text=Hung%20(Hiirooo)%20👋&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,ffffff,0000ff&height=200&section=header&text=Hung%20Nguyen%20Huy%20(Hiirooo)%20👋&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
 </p>
 
 <table border="2px" width="100%">
