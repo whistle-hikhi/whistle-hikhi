@@ -16,10 +16,6 @@ Previously, I’ve worked on various challenging projects in AI and Computer Vis
 - ✉️ Email: nguyenhuyhung192002@gmail.com  
 - 💼 [LinkedIn – @Huyt](https://www.linkedin.com/in/h%C3%B9ng-nguy%E1%BB%85n-huy-8888521b9/)
 
-> ⚡ *Fun fact: I always give my best in everything I do.*
-
----
-
 ## 🛠 Skills
 
 ### ⚙️ Technical Domains
