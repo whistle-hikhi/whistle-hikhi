@@ -1,31 +1,61 @@
-# Hello there, I'm Hung (Hiirooo)👋
+# 👋 Hello there, I'm Hung (Hiirooo)
+
 ## 🚀 About Me
-I'm currently a NLP Researcher at VinNLP of VinUniversity
-- :pen: I was an AI Engineer at R&D Department of TECHVIFY Software (10 months)
-- :iphone: I was an AI Engneer at R&D Department of SAMSUNG (7 months)
-- :pencil2: I was a Research Assistant of Computer Vision at ISPAL (2 years)
-- 🔭 I was student of Ha Noi Unviersity of Science and Technology (Bachelor in Control Engineering and Automation)
-- 📫 How to reach me: nguyenhuyhung192002@gmail.com [LinkedIn-@Huyt](https://www.linkedin.com/in/h%C3%B9ng-nguy%E1%BB%85n-huy-8888521b9/)
-- ⚡ Fun fact: Just try my best on everything I involve in
+
+I'm currently a **NLP Researcher** at **VinNLP – VinUniversity**.  
+Previously, I’ve worked on various challenging projects in AI and Computer Vision.
+
+### 💼 Experience
+- 🧠 **AI Engineer** at **TECHVIFY Software – R&D Department** (10 months)  
+- 📱 **AI Engineer** at **SAMSUNG – R&D Department** (7 months)  
+- 🧪 **Research Assistant** in **Computer Vision** at **ISPAL Lab** (2 years)  
+- 🎓 **Bachelor’s Degree** in **Control Engineering & Automation**,  
+  *Hanoi University of Science and Technology*
+
+### 📫 Reach Me
+- ✉️ Email: nguyenhuyhung192002@gmail.com  
+- 💼 [LinkedIn – @Huyt](https://www.linkedin.com/in/h%C3%B9ng-nguy%E1%BB%85n-huy-8888521b9/)
+
+> ⚡ *Fun fact: I always give my best in everything I do.*
+
+---
 
 ## 🛠 Skills
 
-⚡ **Technical:**  Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
+### ⚙️ Technical Domains
+- Machine Learning, Deep Learning  
+- Natural Language Processing (NLP), Computer Vision
 
-:newspaper: **Programing Languages:** Python, C, C++, JavaScript, Typescript
+### 💻 Programming Languages
+- Python 🐍, C, C++, JavaScript, TypeScript
 
-:sandwich: **Database:** PostgreSQL, FAISS, Qdrant, GraphQL
+### 🗄️ Databases & Vector Stores
+- PostgreSQL, FAISS, Qdrant, GraphQL
 
-:cloud: **Cloud:** Microsoft Azure, AWS
+### ☁️ Cloud & DevOps
+- Microsoft Azure, AWS  
+- Docker 🐳
 
-:truck: **Container Orchestrator:** Docker
+### 🧰 Frameworks & Libraries
+- PyTorch, TensorFlow, scikit-learn  
+- HuggingFace 🤗, OpenAI, FastAPI  
+- Langchain, LangGraph  
+- OpenCV, LLaMA
 
-:newspaper: **Frameworks:** PyTorch, TensorFlow, OpenCVs, Langchain, Langgraph, OpenAI, HuggingFace, Sklearn, Llama, FastAPI
+---
 
-:speaking_head: **Languages:**
+## 🌐 Languages
 
-- English: Professional working proficiency 
-- Vietnamese: Native proficiency
+| Language     | Proficiency                     |
+|--------------|---------------------------------|
+| 🇬🇧 English   | Professional working proficiency |
+| 🇻🇳 Vietnamese| Native proficiency               |
+
+---
+
+Thanks for stopping by! ⭐  
+Feel free to connect or collaborate — I'm always open to exciting new challenges!
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whistle-hikhi&show_icons=true&theme=tokyonight)
