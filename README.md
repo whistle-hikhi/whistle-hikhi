@@ -26,3 +26,4 @@ I'm currently a NLP Researcher at VinNLP of VinUniversity
 
 - English: Professional working proficiency 
 - Vietnamese: Native proficiency
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whistle-hikhi&repo=github-readme-stats)](https://github.com/whistle-hikhi/github-readme-stats)
