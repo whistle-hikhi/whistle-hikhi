@@ -5,9 +5,7 @@
 I'm currently a **NLP Researcher** at **VinNLP – VinUniversity**.  
 Previously, I’ve worked on various challenging projects in AI and Computer Vision.
 
-<div align="right" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=whistle-hikhi&show_icons=true&theme=radical" />
-</div>
+<img align="right" width="50%"src="https://github-readme-stats.vercel.app/api?username=whistle-hikhi&show_icons=true&theme=radical" />
 
 ### 💼 Experience
 - 🧠 **AI Engineer** at **TECHVIFY Software – R&D Department** (10 months)  
@@ -34,4 +32,8 @@ Thanks for stopping by! ⭐
 Feel free to connect or collaborate — I'm always open to exciting new challenges!
 
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whistle-hikhi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whistle-hikhi&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
