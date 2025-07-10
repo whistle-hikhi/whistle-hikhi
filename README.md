@@ -23,7 +23,7 @@ Previously, I’ve worked on various challenging projects in AI and Computer Vis
 ## 🛠 Skills
 
 ### ⚙️ Technical Domains
-> Machine Learning • Deep Learning • NLP • Computer Vision
+Machine Learning • Deep Learning • NLP • Computer Vision
 
 ---
 
