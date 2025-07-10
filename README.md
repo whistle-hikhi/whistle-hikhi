@@ -23,7 +23,6 @@ with a strong background in AI engineering and research.
 
 </td>
 
-<!-- Right column: GitHub Stats -->
 <td width="40%" align="center" valign="top">
 
 <div align="center">
