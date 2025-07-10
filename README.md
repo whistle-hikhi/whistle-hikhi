@@ -28,6 +28,6 @@ I'm currently a NLP Researcher at VinNLP of VinUniversity
 - Vietnamese: Native proficiency
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whistle-hikhi&show_icons=true&theme=gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whistle-hikhi&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
