@@ -1,39 +1,38 @@
-# 👋 Hello there, I'm Hung (Hiirooo)
+<table>
+  <tr>
+    <!-- Left column: Bio and About -->
+    <td width="60%" valign="top">
 
-## 🚀 About Me
+# 👋 Hello, I'm Hung (Hiirooo)
 
-I'm currently a **NLP Researcher** at **VinNLP – VinUniversity**.  
-Previously, I’ve worked on various challenging projects in AI and Computer Vision.
-
-<img align="right" width="50%"src="https://github-readme-stats.vercel.app/api?username=whistle-hikhi&show_icons=true&theme=radical" />
+I'm currently a **NLP Researcher** at **VinNLP – VinUniversity**,  
+with a strong background in AI engineering and research.
 
 ### 💼 Experience
-- 🧠 **AI Engineer** at **TECHVIFY Software – R&D Department** (10 months)  
-- 📱 **AI Engineer** at **SAMSUNG – R&D Department** (7 months)  
-- 🧪 **Research Assistant** in **Computer Vision** at **ISPAL Lab** (2 years)  
-- 🎓 **Bachelor’s Degree** in **Control Engineering & Automation**,  
+- 🧠 AI Engineer at **TECHVIFY** – R&D Department (10 months)  
+- 📱 AI Engineer at **SAMSUNG** – R&D Department (7 months)  
+- 🧪 Research Assistant in **Computer Vision** at **ISPAL Lab** (2 years)  
+- 🎓 Bachelor's in **Control Engineering & Automation**,  
   *Hanoi University of Science and Technology*
 
 ### 📫 Reach Me
 - ✉️ Email: nguyenhuyhung192002@gmail.com  
 - 💼 [LinkedIn – @Huyt](https://www.linkedin.com/in/h%C3%B9ng-nguy%E1%BB%85n-huy-8888521b9/)
 
+> ⚡ *Fun fact: I always give my best in everything I do.*
 
-## 🌐 Languages
+</td>
 
-| Language     | Proficiency                     |
-|--------------|---------------------------------|
-| 🇬🇧 English   | Professional working proficiency |
-| 🇻🇳 Vietnamese| Native proficiency               |
-
----
-
-Thanks for stopping by! ⭐  
-Feel free to connect or collaborate — I'm always open to exciting new challenges!
-
+<!-- Right column: GitHub Stats -->
+<td width="40%" align="center" valign="top">
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whistle-hikhi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whistle-hikhi&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+</td>
+  </tr>
+</table>
 
