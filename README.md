@@ -1,12 +1,17 @@
+<!-- Gradient Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=200&section=header&text=Hung%20(Hiirooo)%20👋&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
+</p>
+
 <table>
   <tr>
-    <!-- Left column: Bio and About -->
+    <!-- Left: Bio -->
     <td width="60%" valign="top">
 
-# 👋 Hello, I'm Hung (Hiirooo)
+## 🚀 About Me
 
-I'm currently a **NLP Researcher** at **VinNLP – VinUniversity**,  
-with a strong background in AI engineering and research.
+I'm currently a **NLP Researcher** at **VinNLP – VinUniversity**  
+with hands-on experience in building AI/NLP products and ML pipelines.
 
 ### 💼 Experience
 - 🧠 AI Engineer at **TECHVIFY** – R&D Department (10 months)  
@@ -15,13 +20,15 @@ with a strong background in AI engineering and research.
 - 🎓 Bachelor's in **Control Engineering & Automation**,  
   *Hanoi University of Science and Technology*
 
-### 📫 Reach Me
+### 📫 Contact
 - ✉️ Email: nguyenhuyhung192002@gmail.com  
 - 💼 [LinkedIn – @Huyt](https://www.linkedin.com/in/h%C3%B9ng-nguy%E1%BB%85n-huy-8888521b9/)
 
+> ⚡ *Fun fact: I always give my best in everything I do.*
 
 </td>
 
+<!-- Right: GitHub Stats -->
 <td width="40%" align="center" valign="top">
 
 <div align="center">
@@ -34,3 +41,7 @@ with a strong background in AI engineering and research.
   </tr>
 </table>
 
+<!-- Gradient Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=120&section=footer" />
+</p>
