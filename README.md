@@ -25,9 +25,6 @@ Previously, I’ve worked on various challenging projects in AI and Computer Vis
 ### ⚙️ Technical Domains
 Machine Learning • Deep Learning • NLP • Computer Vision
 
-### ⚙️ Technical Domains
-> Machine Learning • Deep Learning • NLP • Computer Vision
-
 ---
 
 | 🖥 Programming Languages | 🗄 Databases & Vector Stores | ☁️ Cloud & DevOps | 🧰 Frameworks & Libraries |
