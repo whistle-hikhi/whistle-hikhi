@@ -7,9 +7,9 @@ Previously, I’ve worked on various challenging projects in AI and Computer Vis
 
 <div align="right" width="50%">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=whistle-hikhi&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whistle-hikhi&show_icons=true&theme=radical" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whistle-hikhi&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whistle-hikhi&layout=compact&theme=radical" />
 
 </div>
 
