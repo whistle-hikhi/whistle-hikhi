@@ -32,9 +32,9 @@ with hands-on experience in building AI/NLP products and ML pipelines.
 <td width="40%" align="center" valign="top">
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whistle-hikhi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whistle-hikhi&show_icons=true&theme=tokyonight" />
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whistle-hikhi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whistle-hikhi&layout=compact&theme=tokyonight" />
 </div>
 
 </td>
