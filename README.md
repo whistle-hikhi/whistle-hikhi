@@ -59,7 +59,6 @@ Machine Learning • Deep Learning • NLP • Computer Vision
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" height="40" alt="Hugging Face" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40" alt="OpenAI" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="LangGraph" />
-  <!-- LangChain and LLaMA don't have official icons yet -->
 </p>
 
 
