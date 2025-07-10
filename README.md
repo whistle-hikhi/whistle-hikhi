@@ -42,13 +42,7 @@ with hands-on experience in building AI/NLP products and ML pipelines.
   </tr>
 </table>
 
-<!-- Gradient Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=120&section=footer" />
-</p>
-
-<p align="center">
-  <img src="gif/wp9657802-2026091765.gif" alt="animated header" width="100%" height="50%" />
-  <h1 style="position:absolute;top:50px;color:white;">Hung Nguyen Huy (Hiirooo) 👋</h1>
+  <img src="gif/wp9657802-2026091765.gif" alt="animated header" width="100%" />
 </p>
 
