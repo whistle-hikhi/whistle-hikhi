@@ -11,8 +11,9 @@
 
 ## 🚀 About Me
 
-I'm currently a **NLP Researcher** at **VinNLP and **PhD Student in Computer Science** – VinUniversity**  
+I'm currently **PhD Student in Computer Science** – VinUniversity**  
 with hands-on experience in building AI/NLP products and ML pipelines.
+Currently pursuing Research Engineer.
 
 ### 💼 Experience
 - 🧠 AI Engineer at **TECHVIFY** – R&D Department (10 months)  
