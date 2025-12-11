@@ -34,11 +34,6 @@ Currently pursuing Research Engineer.
 <!-- Right: GitHub Stats -->
 <td width="40%" align="center" valign="top">
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs" />
-  <br/>
-  <img height="180em" src="" />
-</div>
 
 </td>
   </tr>
