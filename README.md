@@ -8,6 +8,7 @@
 
 I'm currently **PhD Student in Computer Science** – **VinUniversity**  
 with hands-on experience in building AI/NLP products and ML pipelines.
+
 Currently pursuing Research Engineer in AI field.
 
 ### 💼 Experience
