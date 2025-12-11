@@ -4,18 +4,14 @@
 </p>
 
 
-<table border="2px" width="100%">
-  <tr>
-    <!-- Left: Bio -->
-    <td width="60%" valign="top">
-
 ## 🚀 About Me
 
 I'm currently **PhD Student in Computer Science** – **VinUniversity**  
 with hands-on experience in building AI/NLP products and ML pipelines.
-Currently pursuing Research Engineer.
+Currently pursuing Research Engineer in AI field.
 
 ### 💼 Experience
+- 💼 NLP Researcher at VinUniversity (Present)
 - 🧠 AI Engineer at **TECHVIFY** – R&D Department (10 months)  
 - 📱 AI Engineer at **SAMSUNG** – R&D Department (3 months)  
 - 🧪 Research Assistant in **Computer Vision** at **ISPAL Lab** (2 years)  
@@ -28,16 +24,6 @@ Currently pursuing Research Engineer.
 - 💼 [X - Hung Nguyen Huy](https://x.com/HngNguynHu36952)
 
 > ⚡ *Fun fact: I always give my best in everything I do.*
-
-</td>
-
-<!-- Right: GitHub Stats -->
-<td width="40%" align="center" valign="top">
-
-
-</td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="gif/wp9657802-2026091765.gif" alt="animated header" width="100%" />
